@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 termion = "*"
 argparse = "0.2.2"
+termios = "*"
