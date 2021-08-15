@@ -14,4 +14,7 @@ Mainly used it to monitor how fast a file was getting uploaded to my server with
 -f --file = specifies the file name to track
 -s --size = specifies the file size (if known, not mandatory)
 
+# Pictures
+![Alt text](https://raw.githubusercontent.com/CountryTk/demos/master/pic1.png "Demo")
+
 
